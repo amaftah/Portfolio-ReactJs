@@ -7,12 +7,12 @@ class About extends Component {
             <div className="condiv">
             <h1 className="subtopic">About Me</h1>
             <div className="hr_line line2"><div className="inner2"></div></div>
-            <h2 className="abouthead">Vikalp <mark className="mark2">Kaushik</mark></h2>
+            <h2 className="abouthead">abderrahmane <mark className="mark2">maftah</mark></h2>
             <p>Full Stack Developer</p>
             <br></br>
             <p className="p10">I started my journey in the world of computers from an young age,
-            now I’m 21 years old, Pursuing my Computer Science and Engineering Degree in
-            GNDEC Ludhiana.  Web development is my center of interest, i always
+            now I’m 23 years old, Pursuing my Computer Science and Engineering Degree .
+            Web development is my center of interest, i always
             love the idea of cross-platform development, 1-n one code base deploy into almost
             any platform, which web technology like Javascript enables me to do. I also like
             creating Interactive UI components for better UX  and share those design and codes
@@ -27,11 +27,9 @@ class About extends Component {
                 <div className="vr_inner inn2"></div>
             </div>
             <h4>B.Tech in CSE</h4>
-            <p className="p1">GNDEC, Ludhiana</p>
-            <p className="p1"><i class="fa fa-calendar i2"></i>May 2018 - 2022</p>
-            <h4>High School</h4>
-            <p className="p1">St. Farid Public School, MGG</p>
-            <p className="p1"><i class="fa fa-calendar i2"></i>May 2017</p>
+            <p className="p1">1337</p>
+            <p className="p1"><i class="fa fa-calendar i2"></i>  2019 - 2021</p>
+            
 
             <h3 class="sk_head">Skills</h3>
             <div class="sk">HTML</div>
