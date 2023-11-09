@@ -15,6 +15,6 @@ Follow these steps to contribute to this project:
 4. **Run the Following Commands**:
 
    ```bash
-   $ cd Portfolio-Neumorphism-ReactJS
+   $ cd Portfolio-ReactJs
    $ npm install
    $ npm start
