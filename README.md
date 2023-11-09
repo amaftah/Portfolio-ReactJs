@@ -16,5 +16,6 @@ Follow these steps to contribute to this project:
 
    ```bash
    $ cd Portfolio-ReactJs
+   $ npm update
    $ npm install
    $ npm start
